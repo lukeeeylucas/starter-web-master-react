@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Joneaj Luke  jluke@email.com  @joneajluke
+
+# THANKS
+
+   Thanks you Taylor Swift
+   please leave a review if you like this course!
+
+# TECHNOLOGY COLOPHON
+hahahahah
+    HTML5, CSS3
+    jQuery, Modernizr
